@@ -30,11 +30,21 @@ Currently focused on expanding my cloud engineering expertise through hands-on p
 
 <div align="center">
 
-<img src="https://learn.microsoft.com/api/credentials/share/en-us/EvwierhomaOgheneovo-0447/36438EB8698BD6E1?sharingId=F0BD7E042B319E85" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/EvwierhomaOgheneovo-0447/36438EB8698BD6E1?sharingId=F0BD7E042B319E85">
+  <img src="https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Solutions Architect Expert AZ-305" />
+</a>
 
-<img src="https://learn.microsoft.com/api/credentials/share/en-us/EvwierhomaOgheneovo-0447/80B7B9023E229D9A?sharingId=F0BD7E042B319E85" />
+&nbsp;&nbsp;
 
-<img src="https://www.credly.com/badges/ef494e44-1cab-4780-9337-ec5a11b1c87c/linked_in_profile" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/EvwierhomaOgheneovo-0447/80B7B9023E229D9A?sharingId=F0BD7E042B319E85">
+  <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Administrator Associate AZ-104" />
+</a>
+
+<br><br>
+
+<a href="https://www.credly.com/badges/ef494e44-1cab-4780-9337-ec5a11b1c87c/linked_in_profile">
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect Associate" />
+</a>
 
 </div>
 
