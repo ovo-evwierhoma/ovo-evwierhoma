@@ -1,55 +1,182 @@
-Hi, I'm Ovo Evwierhoma 👋
 
-Senior Technical Engineer | Cloud & Infrastructure | AWS & Microsoft Azure
+<div align="center">
 
-I'm a Senior Technical Engineer at Smarsh, with a strong interest in cloud architecture, infrastructure engineering, and automation. I enjoy exploring cloud technologies, building practical solutions, and expanding my technical expertise across AWS and Microsoft Azure.
+# Hi, I'm Ovo Evwierhoma 👋
 
-I'm currently focused on developing hands-on cloud projects, strengthening my engineering skills, and building a portfolio that demonstrates practical cloud architecture and infrastructure solutions.
+### Senior Technical Engineer | Cloud & Infrastructure | AWS & Azure
 
-Certifications
-Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
-Microsoft Certified: Azure Administrator Associate (AZ-104)
-AWS Certified Solutions Architect – Associate
-Technical Skills
-Category	Technologies
-Cloud	Microsoft Azure, AWS
-Infrastructure as Code	Terraform, Azure Bicep, CloudFormation
-DevOps	GitHub Actions, Azure DevOps, CI/CD
-Networking	VNets, VPC, DNS, VPN, Firewalls, Load Balancers
-Identity & Security	Microsoft Entra ID, IAM, RBAC, Active Directory
-Systems	Windows Server, Linux, Red Hat Enterprise Linux
-Automation	PowerShell, Bash, Python
-Monitoring	Azure Monitor, AWS CloudWatch, Prometheus
-Current Interests
-Cloud infrastructure design and deployment
-AWS and Azure architecture
-Hybrid and multi-cloud environments
-Infrastructure automation with Terraform
-Cloud security, governance, and cost optimization
-DevOps and CI/CD automation
-Monitoring, observability, and disaster recovery
-Collaboration
+**Building, Automating & Exploring Cloud Technologies**
 
-I'm interested in connecting and collaborating with cloud engineers, architects, and developers on practical projects involving AWS, Azure, infrastructure automation, and DevOps.
+<br>
 
-My goal is to continue advancing my cloud engineering knowledge through real-world implementations, open-source contributions, and collaborative projects while building a strong technical portfolio.
+I'm a Senior Technical Engineer at **Smarsh**, passionate about cloud architecture, infrastructure engineering, and automation across AWS and Microsoft Azure.
 
-If you're working on an interesting cloud project, I'd be glad to connect and contribute.
+Currently focused on expanding my cloud engineering expertise through hands-on projects, real-world implementations, and collaboration with other technology professionals.
 
-Connect
-Email: ovorhoma@hotmail.com
-GitHub: github.com/ovoevwierhoma
-Resume: View My Resume
+<br>
 
-Always learning. Always building. Always improving. ☁️
+<a href="https://github.com/ovoevwierhoma">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:ovorhoma@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+</div>
 
-Category	Technologies
-Cloud	Microsoft Azure, AWS
-Infrastructure as Code	Terraform, Azure Bicep, CloudFormation
-DevOps	GitHub Actions, Azure DevOps, CI/CD
-Networking	VNets, VPC, DNS, VPN, Firewalls, Load Balancers
-Identity & Security	Microsoft Entra ID, IAM, RBAC, Active Directory
-Systems	Windows Server, Linux, Red Hat Enterprise Linux
-Automation	PowerShell, Bash, Python
-Monitoring	Azure Monitor, AWS CloudWatch, Prometheus
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-Azure_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+
+</div>
+
+---
+
+## 💼 Professional Background
+
+- **Current Role:** Senior Technical Engineer at Smarsh
+- **Cloud Platforms:** Microsoft Azure & Amazon Web Services
+- **Professional Interests:** Cloud Architecture, Infrastructure Engineering, Automation, DevOps and Hybrid Cloud
+
+I'm particularly interested in designing scalable infrastructure, improving cloud operations, and developing solutions that address real-world engineering challenges.
+
+---
+
+## ⚙️ Technical Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Platforms
+
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Hybrid & Multi-Cloud
+
+### 🏗️ Infrastructure as Code
+
+- Terraform
+- Azure Bicep
+- AWS CloudFormation
+
+### 🔐 Security & Identity
+
+- Microsoft Entra ID
+- AWS IAM
+- Azure RBAC
+- Active Directory
+- Network Security Groups
+- VPN & Access Controls
+
+### 🌐 Networking
+
+- Azure VNets
+- AWS VPC
+- DNS & DHCP
+- TCP/IP
+- Firewalls & Routing
+- Load Balancers
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps & Automation
+
+- GitHub Actions
+- Azure DevOps
+- CI/CD Pipelines
+- PowerShell
+- Bash
+- Python
+
+### 🖥️ Systems Administration
+
+- Windows Server
+- Linux Administration
+- Red Hat Enterprise Linux
+- Infrastructure Management
+
+### 📊 Monitoring & Observability
+
+- Azure Monitor
+- AWS CloudWatch
+- Prometheus
+- Infrastructure Monitoring
+- Troubleshooting
+
+### 🛠️ Tools & Platforms
+
+- Git & GitHub
+- Visual Studio Code
+- Power BI
+- Cloud Management Tools
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Current Focus
+
+I'm actively developing my cloud engineering skills through practical implementations and independent projects.
+
+Areas I'm particularly interested in:
+
+- AWS and Azure infrastructure deployments
+- Multi-cloud and hybrid cloud architecture
+- Infrastructure automation using Terraform
+- Cloud security, governance and cost optimization
+- CI/CD pipelines and DevOps workflows
+- Cloud monitoring and disaster recovery
+
+---
+
+## 🤝 Collaboration & Open Source
+
+I'm looking to connect and collaborate with cloud engineers, architects, developers, and technology enthusiasts.
+
+I'm particularly interested in contributing to projects involving:
+
+- AWS and Microsoft Azure
+- Cloud infrastructure and architecture
+- Terraform and Infrastructure as Code
+- DevOps and automation
+- Real-world cloud engineering challenges
+
+**My goal is to learn, contribute, and grow through collaboration while building a meaningful portfolio of practical cloud engineering projects.**
+
+If you're working on an interesting project or looking for someone to collaborate with, let's connect!
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ovorhoma@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/ovoevwierhoma">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/file/d/1MSJVtXrRqNhd1QJS4n8vkPlPKxNelEc6/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-View_My_Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+<br><br>
+
+**Always Learning. Always Building. Always Improving.** ☁️
+
+</div>
