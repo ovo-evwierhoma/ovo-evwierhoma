@@ -181,6 +181,10 @@ If you're working on an interesting project or looking for someone to collaborat
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/ovoevwierhoma/">
+  <img src="https://img.shields.io/badge/LinkedIn-Follow_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="https://drive.google.com/file/d/1MSJVtXrRqNhd1QJS4n8vkPlPKxNelEc6/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-View_My_Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
@@ -190,3 +194,4 @@ If you're working on an interesting project or looking for someone to collaborat
 **Always Learning. Always Building. Always Improving.** ☁️
 
 </div>
+
